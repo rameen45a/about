@@ -1,0 +1,68 @@
+.primary{
+    float: left;
+    margin-top: 0px;
+    font-size: 70%;
+    border: 1px solid black;
+    margin-left: 100px;
+    background: linear-gradient(rgba(25, 172, 226, 0.41), rgba(242, 9, 63, 0.7));
+    padding: 20px 90px 50px 40px;
+    border-radius: 40px;
+}
+.Served{
+    font-size: 350%;
+    line-height: 5px;
+    font-family: cursive;
+    color: rgb(25, 104, 104);
+}
+.child{
+    font-size: 220%;
+    line-height: 5px;
+    margin-left: 10px;
+    color: rgb(25, 104, 104);
+    font-family: cursive;
+    font-weight: bolder;
+}
+.program{
+    font-size: 160%;
+    margin-left: 40px;
+    font-family: cursive;
+    width: 185px;
+    border: 3px solid black;
+
+}
+.programs p{
+    background-color: rgb(248, 217, 217);
+    padding: 5px 0px 5px 0px;
+    margin-top: 45px;
+    text-align: center;
+    font-weight: bold;
+    border-radius: 10px;
+    
+}
+.heading{
+    text-align: center;
+    font-size: 50px;
+    font-family: monospace;
+}
+.head4{
+    margin-top: 60px;
+}
+.contents{
+    text-align: center;
+    line-height: 15px;
+    font-family: cursive;
+}
+.butt{
+    text-align: center;
+}
+.butt a{
+    text-decoration: none;
+}
+.button1{
+    background-color: yellow;
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    margin-top: 10px;
+    border-radius: 30px;
+}
